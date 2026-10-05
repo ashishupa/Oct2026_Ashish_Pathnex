@@ -1,0 +1,11 @@
+#what i did tiday
+
+# 120 min Rivision of the commands and  git practice
+# 60 min Linux script reading and 15 min practice
+# 180 youtube class data watching and tried for  practical
+# 60 min Question and Notes reading
+
+# Tomorrows task
+# 120 Min Rivison of the script writing and reading 
+# 60 Min Question and Answer Prepration
+# 120 Min scripting practice on EC2 
